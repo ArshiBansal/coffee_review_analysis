@@ -1,5 +1,3 @@
----
-
 # ☕ Coffee Quality Analysis
 
 ## 📌 Introduction
